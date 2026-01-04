@@ -57,9 +57,9 @@ _Add screenshots of:_
 ---
 
 ## 📂 Files in This Repository
-- `esp32_dht11_thingspeak.ino` – Main Arduino code
-- `README.md` – Project documentation
-- `screenshots/` – Output and dashboard images
+- `Velsync_Code_1.ino` – Main Arduino code
+- `readme.md` – Project documentation
+- `Temperature,Humidity etc` – Output and dashboard images
 
 ---
 
@@ -81,3 +81,4 @@ _Add screenshots of:_
 ## 👤 Author
 **Abhishek Dubey**  
 B.Tech ECE | Embedded Systems & IoT Intern
+
